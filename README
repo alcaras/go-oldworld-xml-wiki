@@ -1,0 +1,5 @@
+parse xml to generate output for the oldworld wiki
+
+for now, generated csv that can be converted to wiki tables using a tool like http://mlei.net/shared/tool/csv-wiki.htm
+
+used https://github.com/miku/zek to generate the xml structs
